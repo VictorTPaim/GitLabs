@@ -8,3 +8,8 @@ if (operacao == "Somar")
 {
     Console.WriteLine(n1 + n2);
 }
+
+if (operacao == "Subtrair")
+{
+    Console.WriteLine(n1 - n2);
+}
